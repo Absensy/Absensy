@@ -44,7 +44,7 @@ Currently improving my skills in full-stack development and working toward becom
 
 - Telegram: https://t.me/absensy
 - GitHub: https://github.com/Absensy
-
+- Gmail: evgenniydasshkevich@gmail.com
 ---
 
 ⭐ Open to web development opportunities and collaboration.
